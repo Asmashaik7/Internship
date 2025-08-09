@@ -1,0 +1,40 @@
+Best practices for presenting AI-driven insights to stakeholders
+When you're presenting AI-driven insights, your job is not to showcase everything the model did — it’s to clearly communicate what the business needs to know and what they can do with it. Especially in roles like an AI transformation consultant, success depends on your ability to translate complex outputs into simple, relevant, and actionable messages.
+
+Think of yourself as a strategic interpreter between the model and the business.
+
+Here are the best practices to guide your communication:
+
+Know your audience
+Geldium’s Head of Collections doesn’t need to know how the model was trained. They want to know what it means for customer risk and what to do next. Focus on what matters to their priorities: risk reduction, customer fairness, and operational efficiency.
+ 
+
+Lead with what matters most
+Avoid burying your main points under technical details. Put your most important insights up front. This could be:
+
+Which customer segment is most at risk
+What intervention is recommended
+What impact the model could have if applied
+ 
+Use clear, structured language
+Avoid jargon. Frame your message using clear, accessible terms. When referencing model outputs, pair any technical term with a plain-language explanation.
+Example: “Our model shows a high correlation between missed payments and income volatility, suggesting that outreach should prioritise lower-income segments.”
+ 
+
+Use effective visualizations:
+Use clear and concise visualizations (e.g., charts, graphs, tables) to support your insights.
+Choose the right visualization type for the data you are presenting (e.g., bar charts for comparisons, line graphs for trends).
+
+Anticipate business concerns
+Be prepared to address:
+
+How reliable the prediction is
+Whether the recommendation is fair
+What the downside risk might be
+How this fits within current operations
+The model's accuracy in predicting delinquency for specific customer segments
+The potential impact of recommendations on customer relationships
+The feasibility of implementing the proposed interventions
+
+Focus on action and impact
+A good presentation doesn’t just explain the insight — it prompts a decision. Your role is to help the stakeholder see how the data informs a smart next step.
