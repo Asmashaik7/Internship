@@ -1,0 +1,12 @@
+Task overview
+After generating an initial predictive model framework in Task 2, your team performed additional refinement and validation to ensure its alignment with Geldium’s risk assessment needs. Now, your next step is to translate these structured insights into a clear, actionable report for Geldium’s Head of Collections.
+What you'll learn
+How to translate predictive insights into actionable business recommendations.
+Best practices for presenting AI-driven insights to key stakeholders.
+Considerations for ethical AI, bias, explainability, and responsible decision-making.
+What you'll do
+Prepare a two-page summary report for the Head of Collections to share with their team, emphasizing key risk factors, delinquency trends, and recommended intervention strategies.
+Develop a structured recommendation framework that outlines the next steps, key takeaways, and business justifications for proposed actions.
+Discuss ethical considerations, such as responsible AI for financial decision-making and customer fairness.
+
+Watch this brief video before you start this task
