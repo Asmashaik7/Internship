@@ -1,0 +1,16 @@
+Let’s get started
+You're back in a catch-up with Charithra and the Tata iQ analytics team. The business report you delivered in Task 3 successfully highlighted key delinquency risks and potential interventions. Now, Geldium wants to take that a step further: they're looking to automate those interventions.
+
+"We've made strong progress in identifying who is at risk," Charithra begins. "But now we need to design a system that can act on that information in real time. Geldium wants to move beyond manual outreach and static reports to a system that can continuously adapt and optimize collections strategies."
+
+Your new task is to prepare a presentation outlining a framework for an AI-powered collections system that does just that. This means designing a system that uses agentic AI — systems capable of reasoning, adapting, and making autonomous decisions — to optimize and personalize customer outreach at scale. The solution should be practical and forward-thinking, with robust boundaries in place to protect customers and uphold regulatory standards.
+
+To achieve this, you'll need to consider:
+
+How the system will process model outputs and automatically take action (e.g., triggering reminders, adjusting outreach cadence, escalating cases).
+Where human oversight is essential, and what limits or controls should be implemented on the AI's actions.
+How the system can be adaptive and self-improving — learning from new data to continuously refine its decision-making.
+What safeguards are required to ensure fairness, transparency, explainability, and legal compliance throughout the system's operation.
+"This isn't just about automation," Charithra adds. "It's about building something trustworthy, strategic, and responsible — a system Geldium can confidently rely on to manage collections effectively and ethically."
+
+The stakeholder presentation you develop will be crucial in shaping how Geldium scales its collections strategy using AI. Let's design it responsibly.
