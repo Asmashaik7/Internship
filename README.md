@@ -16,16 +16,18 @@ Enrollment Code: gNPLN3bCyCZ5CkicC
 User Code: HETDpnpbvvSewXCQh
 
 📂 Repository Structure
- ├── Certificate/               
+ ├── Certification/
  │    ├── 01_EDA_Summary_Report.docx
  │    ├── 02_Predictive_Modeling_Plan.txt
  │    ├── 03_Business_Summary_Report.docx
  │    ├── 04_AI_Powered_Collections_Strategy.pptx
  │    └── Certificate_of_Completion.pdf
- ├── Task1/                     # Files and materials provided by Forage (EDA task)
- ├── Task2/                     # Files and materials provided by Forage (Predictive modeling task)
- ├── Task3/                     # Files and materials provided by Forage (Business summary task)
- ├── Task4/                     # Files and materials provided by Forage (Collections strategy task)
+ ├── task1/   # Files and materials provided by Forage (EDA task)
+ ├── task2/   # Files and materials provided by Forage (Predictive modeling task)
+ ├── task3/   # Files and materials provided by Forage (Business summary task)
+ ├── task4/   # Files and materials provided by Forage (Collections strategy task)
+ ├── dataset_tcs_project.xlsx   # Dataset used for analysis
+ └── README.md
 
 
 🛠️ Skills & Tools Applied
