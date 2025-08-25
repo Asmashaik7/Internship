@@ -15,6 +15,19 @@ Verification Codes:
 Enrollment Code: gNPLN3bCyCZ5CkicC
 User Code: HETDpnpbvvSewXCQh
 
+📂 Repository Structure
+ ├── Certificate/               
+ │    ├── 01_EDA_Summary_Report.docx
+ │    ├── 02_Predictive_Modeling_Plan.txt
+ │    ├── 03_Business_Summary_Report.docx
+ │    ├── 04_AI_Powered_Collections_Strategy.pptx
+ │    └── Certificate_of_Completion.pdf
+ ├── Task1/                     # Files and materials provided by Forage (EDA task)
+ ├── Task2/                     # Files and materials provided by Forage (Predictive modeling task)
+ ├── Task3/                     # Files and materials provided by Forage (Business summary task)
+ ├── Task4/                     # Files and materials provided by Forage (Collections strategy task)
+
+
 🛠️ Skills & Tools Applied
 
 Generative AI Prompting – translating business problems into structured AI queries
