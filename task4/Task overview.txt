@@ -1,0 +1,13 @@
+Task overview
+Great job translating your model insights into business recommendations in Task 3! Now, you'll create a presentation to stakeholders in the final task.
+What you'll learn
+How to design an AI-powered, autonomous debt-management system.
+The role of agentic AI in automating financial decision-making.
+Strategies for ensuring compliance, transparency, and fairness in AI-driven financial services.
+How to align AI-driven insights with financial industry regulatory standards.
+What you'll do
+Design a presentation outlining a framework for an AI-powered collections system, showing how AI can automate and optimize outreach efforts.
+Identify guardrails to prevent unfair or biased decision-making.
+Discuss how agentic AI can continuously adapt to changes in delinquency patterns.
+
+Watch this brief video before you start this task

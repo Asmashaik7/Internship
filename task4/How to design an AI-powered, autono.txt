@@ -1,0 +1,31 @@
+How to design an AI-powered, autonomous debt-management system
+An AI-powered debt-management system is designed to automatically identify, engage, and support customers at risk of falling behind on repayments. Unlike traditional debt-collection processes, which rely on manual case handling or static segmentation, AI systems make dynamic decisions based on customer data, behavioral trends, and real-time feedback.
+
+These systems often leverage agentic AI, which refers to AI systems capable of reasoning, adapting, and making autonomous decisions without requiring constant human oversight (more on this on the next page).
+
+At its core, the system should be able to:
+
+Ingest predictive risk scores (e.g., from your model in Task 2)
+Determine the best course of action (e.g., payment reminder, hardship support)
+Personalise timing and messaging based on customer behavior
+Monitor outcomes and adjust future actions accordingly
+This means the system continuously learns and improves.
+
+Key components of an autonomous system
+To design an effective system, think about the core building blocks:
+
+Data pipeline: Feeds the system real-time customer information.
+Examples: customer demographics, transaction history, credit bureau data, real-time payment activity.
+Decision engine: Applies business rules and model outputs to make autonomous decisions.
+Examples: uses rules-based logic, machine learning models, or a combination of both to determine the optimal action.
+Action layer: Executes interventions.
+Examples: sending personalized SMS reminders, offering payment deferrals, initiating phone calls, or adjusting interest rates.
+Learning loop: Monitors outcomes and feeds them back into the model to refine future decisions.
+Examples: tracking metrics such as repayment rates, customer engagement, and cost of collections to evaluate the effectiveness of its actions and adjust its strategies.
+Important considerations
+Integration with existing systems (e.g., CRM, payment processing)
+Human oversight:
+Where and why it’s needed: Human oversight is crucial for handling complex cases, addressing customer disputes, making exceptions to automated decisions, and ensuring compliance with regulations
+Guardrails for compliance, fairness, and accountability (explored later in the task):
+Types and importance: Guardrails are essential to ensure fairness (preventing discriminatory outcomes), transparency (providing explainable decisions), accountability (establishing responsibility for system actions), and compliance (adhering to relevant laws and regulations)
+Ultimately, the goal is to design a system that’s smart, scalable, and responsible — supporting both business objectives and customer outcomes.

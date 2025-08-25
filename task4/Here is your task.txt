@@ -1,0 +1,63 @@
+Here is your task
+Time to translate your recommendations into a high-level concept for an autonomous, responsible AI-powered collections system. You’ll present this as a PowerPoint deck, simulating a real executive briefing.
+
+Your recommendations will build on the predictive model framework you outlined in Task 2 and your stakeholder recommendations from Task 3.
+
+Now that you've identified at-risk customer segments and proposed targeted interventions, it’s time to design a system that can apply these insights at scale, while remaining fair, explainable, and compliant. This mirrors the kind of work many AI and analytics professionals are asked to do in real-world business environments: turning insight into sustainable automation.
+
+In this task, you’ll create a PowerPoint that outlines your proposed AI-powered collections system. This isn’t a technical system architecture — it’s a high-level strategy describing:
+
+How the system would work
+What ethical and regulatory guardrails it needs
+How its success would be measured
+Step 1: Build Your PowerPoint Outline
+Before diving into the details, start by planning your deck. Your PowerPoint should include the following slides:
+
+Slide 1-2: How the system works (inputs, decision logic, actions, learning loop)
+Slide 3: Role of agentic AI (autonomous vs. human-in-the-loop activities)
+Slide 4: Responsible AI guardrails (fairness, explainability, compliance)
+Slide 5: Expected business impact (quantitative and qualitative outcomes)
+Use this outline to organize your ideas before building each individual slide. Feel free to include additional slides as needed to convey your ideas effectively!
+
+Step 2: Build Your Slides
+With the overall structure of your PowerPoint in place, it's time to start building out the individual slides. We've also included a PowerPoint template in the resources below for you to use to build out your presentation. Each slide includes built-in guidance in the slides and notes. Feel free to add additional slides or adapt the structure to suit your approach.
+
+Slide 1-2. Describe how the system will work 
+Describe the overall system workflow using simple bullet points or diagrams.
+
+Action:  Create a simple 4-part list or diagram showing the flow from customer data to decision-making to action to learning.
+
+Slide 3. Role of Agentic AI
+Explain which parts of the system will operate autonomously and which require human oversight. 
+
+Action:  Create a table with two columns ("Autonomous" vs. "Human Oversight") and list examples for each.
+
+Slide 4: Responsible AI Guardrails
+List key safeguards you would build into the system to ensure it operates fairly and responsibly.
+
+Action:  Create a 3–4 bullet list of responsible AI guardrails you will build into the system.
+
+Slide 5. Expected Business Impact
+Explain how your proposed system would benefit Geldium’s collections strategy. Consider both quantitative outcomes (e.g., reduced delinquency, cost savings) and qualitative results (e.g., better customer experience, increased fairness, scalability).
+
+Action:  Create two lists — one for business KPIs, one for customer outcomes.
+
+Step 3: Submit your slide deck.
+Prepare and submit your final slide deck below. It should include slides covering:
+
+How the system works (inputs, decision logic, actions, learning loop)
+Role of agentic AI (autonomous vs. human-in-the-loop activities)
+Responsible AI guardrails (fairness, explainability, compliance)
+Expected business impact (quantitative and qualitative outcomes)
+Here are some resources to help you
+
+Template
+Click to download file →
+Don’t forget – you can refer to the Glossary of Terms at any time: 
+
+
+Glossary of Terms
+Click to download file →
+Upload your slide deck
+Select a File
+or drag it here.

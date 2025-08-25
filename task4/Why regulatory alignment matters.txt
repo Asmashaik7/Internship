@@ -1,0 +1,23 @@
+Why regulatory alignment matters
+Building on our previous discussion of ethical AI, this section focuses on the specific strategies for aligning AI-driven insights with financial industry regulations. As AI becomes more embedded in financial decision-making, regulatory compliance must be a core part of how models are designed, deployed, and used.
+
+Non-compliance can lead to serious consequences, including regulatory penalties, lawsuits, reputational damage, and customer distrust. Aligning AI with regulation ensures that your insights not only drive outcomes but also uphold legal, ethical, and professional standards.
+
+What does regulatory alignment mean?
+In finance, regulatory alignment means that AI systems:
+
+Treat customers fairly
+Use data responsibly
+Provide transparent, explainable outcomes
+Maintain audibility and oversight (this includes keeping detailed records of data sources, model design, decision logic, and system performance to allow for effective monitoring and auditing by regulators and internal stakeholders)
+This applies not only to how models are built but also to how their insights are used in lending, collections, and customer interactions.
+
+Financial regulations 
+Equal Credit Opportunity Act (ECOA – US): Prohibits lending discrimination.
+Example: A model that unintentionally disadvantages certain demographic groups could violate ECOA.
+General Data Protection Regulation (GDPR – EU/UK): Governs data privacy and the right to explanation.
+Example: Customers must be able to understand how their data was used in an automated decision.
+Financial Conduct Authority (FCA – UK): Requires fair treatment and proportionate collections.
+Example: AI systems that escalate collections too quickly may breach these principles.
+Fair Credit Reporting Act (FCRA – US): Protects the accuracy and use of consumer credit data.
+Example: Using outdated data in lending models can result in unfair outcomes.
